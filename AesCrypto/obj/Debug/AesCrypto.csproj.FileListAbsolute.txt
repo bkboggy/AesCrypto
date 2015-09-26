@@ -1,0 +1,6 @@
+C:\Users\BK\Desktop\AesCrypto\AesCrypto\bin\Debug\AesCrypto.exe.config
+C:\Users\BK\Desktop\AesCrypto\AesCrypto\obj\Debug\AesCrypto.csprojResolveAssemblyReference.cache
+C:\Users\BK\Desktop\AesCrypto\AesCrypto\bin\Debug\AesCrypto.exe
+C:\Users\BK\Desktop\AesCrypto\AesCrypto\bin\Debug\AesCrypto.pdb
+C:\Users\BK\Desktop\AesCrypto\AesCrypto\obj\Debug\AesCrypto.exe
+C:\Users\BK\Desktop\AesCrypto\AesCrypto\obj\Debug\AesCrypto.pdb
